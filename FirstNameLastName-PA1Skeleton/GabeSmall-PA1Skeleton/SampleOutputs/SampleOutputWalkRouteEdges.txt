@@ -1,0 +1,9 @@
+550 - (79,133) [U40 -> 7] Usen Driveway
+390 - (133,118) [7 -> S] Usen Bypass
+392 - (118,121) [S -> V] Usen Bypass
+161 - (121,89) [V -> A1n] Squire Bridge Steps
+158 - (89,90) [A1n -> A1s] Squire Bridge
+164 - (90,124) [A1s -> Y] 
+197 - (124,98) [Y -> A7] Marcus Field
+200 - (98,147) [A7 -> ^] Marcus Field
+207 - (147,99) [^ -> A8] Gordon Field
