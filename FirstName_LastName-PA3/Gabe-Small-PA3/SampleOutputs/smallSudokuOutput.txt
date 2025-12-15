@@ -1,0 +1,17 @@
+Solution #1
+pos01 row03 col13 box03
+pos02 row01 col21 box11
+pos10 row14 col04 box04
+pos00 row02 col02 box02
+pos03 row04 col34 box14
+pos11 row11 col11 box01
+pos20 row21 col01 box21
+pos22 row22 col22 box32
+pos12 row13 col23 box13
+pos13 row12 col32 box12
+pos21 row24 col14 box24
+pos23 row23 col33 box33
+pos30 row33 col03 box23
+pos31 row32 col12 box22
+pos32 row34 col24 box34
+pos33 row31 col31 box31
